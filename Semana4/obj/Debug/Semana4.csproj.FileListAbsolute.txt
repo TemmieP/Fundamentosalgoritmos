@@ -5,3 +5,10 @@ C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana4
 C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.csproj.CoreCompileInputs.cache
 C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.exe
 C:\Users\yor_d\OneDrive\Escritorio\FUNDAMENTOS\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.pdb
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\bin\Debug\Semana4.exe.config
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\bin\Debug\Semana4.exe
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\bin\Debug\Semana4.pdb
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.csproj.AssemblyReference.cache
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.csproj.CoreCompileInputs.cache
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.exe
+C:\Users\frech\OneDrive\Desktop\Semana3\3 copia\Fundamentos-de-Algoritmos\Semana4\obj\Debug\Semana4.pdb
