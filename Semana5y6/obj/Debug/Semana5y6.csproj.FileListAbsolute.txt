@@ -1,0 +1,7 @@
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\bin\Debug\Semana5y6.exe.config
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\bin\Debug\Semana5y6.exe
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\bin\Debug\Semana5y6.pdb
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\obj\Debug\Semana5y6.csproj.AssemblyReference.cache
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\obj\Debug\Semana5y6.csproj.CoreCompileInputs.cache
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\obj\Debug\Semana5y6.exe
+C:\Users\frech\OneDrive\Desktop\T1_RiosBernaola\Semana5y6\Semana5y6\obj\Debug\Semana5y6.pdb
